@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Artem=============================================================================================================================Data analytic-------------I decided to change my life and start a career as a data analyst.* 🌍  I'm based in Saint-Petersburg, Russia* ✉️  You can contact me at [temchic1@gmail.com](mailto:temchic1@gmail.com)* 🧠  I'm learning SQL, PostgreSQL, Data, Google Sheets, Preset, Superset, Math, Python
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Artem, Data analytic
+
+I decided to change my life and start a career as a data analyst.* 🌍  I'm based in Saint-Petersburg, Russia* ✉️  You can contact me at [temchic1@gmail.com](mailto:temchic1@gmail.com)* 🧠  I'm learning SQL, PostgreSQL, Data, Google Sheets, Preset, Superset, Math, Python
 
 ### Skills
 
